@@ -9,7 +9,7 @@
 │   📡 Swift • Objective-C • AppleScript   │
 │   💾 System Analysis & Hardening         │
 │                                          │
-│            @AnonAntics | NullSec         │
+│            bad-antics | NullSec         │
 ╰──────────────────────────────────────────╯
 ```
 
@@ -131,9 +131,9 @@ nullsec-macos/
 
 ## Credits
 
-- **Author**: @AnonAntics
+- **Author**: bad-antics
 - **Organization**: NullSec
-- **Twitter**: [@AnonAntics](https://twitter.com/AnonAntics)
+- **GitHub**: [bad-antics](https://github.com/bad-antics)
 - **Discord**: [discord.gg/killers](https://discord.gg/killers)
 
 ## License

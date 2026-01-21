@@ -1,6 +1,6 @@
 // NullSec macOS Security Toolkit - Swift
 // Native Apple security analysis
-// @author @AnonAntics
+// @author bad-antics
 // @discord discord.gg/killers
 
 import Foundation
@@ -12,7 +12,7 @@ import DiskArbitration
 // MARK: - Configuration
 
 let VERSION = "2.0.0"
-let AUTHOR = "@AnonAntics"
+let AUTHOR = "bad-antics"
 let DISCORD = "discord.gg/killers"
 
 let BANNER = """
@@ -24,7 +24,7 @@ let BANNER = """
 │   📡 SIP • Keychain • Network            │
 │   💾 Forensics & Hardening               │
 │                                          │
-│            @AnonAntics | NullSec         │
+│            bad-antics | NullSec         │
 ╰──────────────────────────────────────────╯
 """
 
@@ -713,7 +713,7 @@ class MainMenu {
         print("\n─────────────────────────────────────────")
         print("🍎 NullSec macOS Toolkit")
         print("🔑 Premium: discord.gg/killers")
-        print("🐦 Twitter: @AnonAntics")
+        print("🐦 GitHub: bad-antics")
         print("─────────────────────────────────────────\n")
     }
 }

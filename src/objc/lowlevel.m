@@ -1,6 +1,6 @@
 // NullSec macOS - Objective-C Low-Level Tools
 // Direct access to macOS internals
-// @author @AnonAntics
+// @author bad-antics
 // @discord discord.gg/killers
 
 #import <Foundation/Foundation.h>
@@ -15,7 +15,7 @@
 #import <pwd.h>
 
 #define VERSION @"2.0.0"
-#define AUTHOR @"@AnonAntics"
+#define AUTHOR @"bad-antics"
 #define DISCORD @"discord.gg/killers"
 
 #pragma mark - License Management
@@ -596,7 +596,7 @@ int main(int argc, const char * argv[]) {
         printf("│   📡 IOKit • Mach • TCC Database         │\n");
         printf("│   💾 Process & Memory Inspection         │\n");
         printf("│                                          │\n");
-        printf("│            @AnonAntics | NullSec         │\n");
+        printf("│            bad-antics | NullSec         │\n");
         printf("╰──────────────────────────────────────────╯\n");
         printf("\033[0m\n");
         
@@ -642,7 +642,7 @@ int main(int argc, const char * argv[]) {
         printf("\n─────────────────────────────────────────\n");
         printf("🍎 NullSec macOS Low-Level Tools\n");
         printf("🔑 Premium: discord.gg/killers\n");
-        printf("🐦 Twitter: @AnonAntics\n");
+        printf("🐦 GitHub: bad-antics\n");
         printf("─────────────────────────────────────────\n\n");
     }
     return 0;

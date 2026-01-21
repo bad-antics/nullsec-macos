@@ -1,5 +1,5 @@
 -- NullSec macOS AppleScript Automation
--- @author @AnonAntics
+-- @author bad-antics
 -- @discord discord.gg/killers
 
 -- ╭──────────────────────────────────────────╮
@@ -10,11 +10,11 @@
 -- │   📡 Security Scripts & Macros           │
 -- │   💾 System Control via AppleScript      │
 -- │                                          │
--- │            @AnonAntics | NullSec         │
+-- │            bad-antics | NullSec         │
 -- ╰──────────────────────────────────────────╯
 
 property VERSION : "2.0.0"
-property AUTHOR : "@AnonAntics"
+property AUTHOR : "bad-antics"
 property DISCORD : "discord.gg/killers"
 
 -- ═══════════════════════════════════════════
@@ -315,7 +315,7 @@ end unmuteVolume
 on displayMainMenu()
 	set menuOptions to {"System Info", "Security Status", "Network Info", "Running Apps", "Take Screenshot", "Lock Screen", "About"}
 	
-	set selectedOption to choose from list menuOptions with prompt "NullSec macOS Automation v" & VERSION & return & "@AnonAntics | discord.gg/killers" with title "NullSec macOS" default items {"System Info"}
+	set selectedOption to choose from list menuOptions with prompt "NullSec macOS Automation v" & VERSION & return & "bad-antics | discord.gg/killers" with title "NullSec macOS" default items {"System Info"}
 	
 	if selectedOption is false then
 		return "Cancelled"
