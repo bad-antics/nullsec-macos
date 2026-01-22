@@ -1,16 +1,19 @@
 # NullSec macOS Security Suite
 
 ```
-╭──────────────────────────────────────────╮
-│        🍎 NULLSEC MACOS TOOLKIT          │
-│       ════════════════════════════       │
-│                                          │
-│   🔧 Native macOS Security Tools         │
-│   📡 Swift • Objective-C • AppleScript   │
-│   💾 System Analysis & Hardening         │
-│                                          │
-│            bad-antics | NullSec         │
-╰──────────────────────────────────────────╯
+ ███▄    █  █    ██  ██▓     ██▓      ██████ ▓█████  ▄████▄  
+ ██ ▀█   █  ██  ▓██▒▓██▒    ▓██▒    ▒██    ▒ ▓█   ▀ ▒██▀ ▀█  
+▓██  ▀█ ██▒▓██  ▒██░▒██░    ▒██░    ░ ▓██▄   ▒███   ▒▓█    ▄ 
+▓██▒  ▐▌██▒▓▓█  ░██░▒██░    ▒██░      ▒   ██▒▒▓█  ▄ ▒▓▓▄ ▄██▒
+▒██░   ▓██░▒▒█████▓ ░██████▒░██████▒▒██████▒▒░▒████▒▒ ▓███▀ ░
+░ ▒░   ▒ ▒ ░▒▓▒ ▒ ▒ ░ ▒░▓  ░░ ▒░▓  ░▒ ▒▓▒ ▒ ░░░ ▒░ ░░ ░▒ ▒  ░
+░ ░░   ░ ▒░░░▒░ ░ ░ ░ ░ ▒  ░░ ░ ▒  ░░ ░▒  ░ ░ ░ ░  ░  ░  ▒   
+   ░   ░ ░  ░░░ ░ ░   ░ ░     ░ ░   ░  ░  ░     ░   ░        
+         ░    ░         ░  ░    ░  ░      ░     ░  ░░ ░      
+    ░                                               ░  ▄▄▄▄▄▄
+             🍎 MACOS SECURITY TOOLKIT 🍎
+       🔧 Native Tools • Swift • Objective-C • AppleScript
+                 bad-antics | NullSec
 ```
 
 ## Overview
