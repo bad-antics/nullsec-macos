@@ -44,7 +44,7 @@ NullSec macOS is an exclusive security toolkit built specifically for Apple macO
 - DNS traffic monitor
 - VPN configuration inspector
 
-### 💻 System Hardening
+### 💻 System Security
 - Privacy permission auditor
 - TCC database analyzer
 - LaunchDaemon/LaunchAgent scanner
