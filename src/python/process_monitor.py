@@ -3,7 +3,7 @@
 ═══════════════════════════════════════════════════════════════════
  NULLSEC MACOS PYTHON PROCESS MONITOR
  Advanced process monitoring and analysis for macOS
- @author bad-antics | discord.gg/killers
+ @author bad-antics | x.com/AnonAntics
 ═══════════════════════════════════════════════════════════════════
 """
 
@@ -19,7 +19,7 @@ from typing import Dict, List, Optional, Tuple
 
 VERSION = "2.0.0"
 AUTHOR = "bad-antics"
-DISCORD = "discord.gg/killers"
+DISCORD = "x.com/AnonAntics"
 
 BANNER = """
 ╭──────────────────────────────────────────╮

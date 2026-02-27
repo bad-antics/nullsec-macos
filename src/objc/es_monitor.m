@@ -2,7 +2,7 @@
  * ═══════════════════════════════════════════════════════════════════
  *  NULLSEC macOS Endpoint Security Monitor
  *  Real-time security event monitoring using Endpoint Security framework
- *  @author bad-antics | discord.gg/killers
+ *  @author bad-antics | x.com/AnonAntics
  * ═══════════════════════════════════════════════════════════════════
  *
  *  Compile: clang -framework Foundation -framework EndpointSecurity \
@@ -16,7 +16,7 @@
 
 #define VERSION "2.0.0"
 #define AUTHOR "bad-antics"
-#define DISCORD "discord.gg/killers"
+#define DISCORD "x.com/AnonAntics"
 
 static const char* BANNER = 
 "╭──────────────────────────────────────────╮\n"

@@ -2,7 +2,7 @@
  * ═══════════════════════════════════════════════════════════════════
  *  NULLSEC MACOS SWIFT KEYCHAIN ANALYZER
  *  Secure keychain analysis and credential auditing
- *  @author bad-antics | discord.gg/killers
+ *  @author bad-antics | x.com/AnonAntics
  * ═══════════════════════════════════════════════════════════════════
  */
 
@@ -11,7 +11,7 @@ import Security
 
 let VERSION = "2.0.0"
 let AUTHOR = "bad-antics"
-let DISCORD = "discord.gg/killers"
+let DISCORD = "x.com/AnonAntics"
 
 let BANNER = """
 

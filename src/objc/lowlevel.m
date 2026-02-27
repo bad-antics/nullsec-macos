@@ -1,7 +1,7 @@
 // NullSec macOS - Objective-C Low-Level Tools
 // Direct access to macOS internals
 // @author bad-antics
-// @discord discord.gg/killers
+// @discord x.com/AnonAntics
 
 #import <Foundation/Foundation.h>
 #import <Security/Security.h>
@@ -16,7 +16,7 @@
 
 #define VERSION @"2.0.0"
 #define AUTHOR @"bad-antics"
-#define DISCORD @"discord.gg/killers"
+#define DISCORD @"x.com/AnonAntics"
 
 #pragma mark - License Management
 
@@ -467,7 +467,7 @@ typedef NS_ENUM(NSInteger, LicenseTier) {
 - (NSArray *)readTCCDatabase {
     if (![self.license isPremium]) {
         [Console warning:@"TCC database access requires premium license"];
-        [Console info:@"Get premium at discord.gg/killers"];
+        [Console info:@"Get premium at x.com/AnonAntics"];
         return @[];
     }
     
@@ -641,7 +641,7 @@ int main(int argc, const char * argv[]) {
         
         printf("\n─────────────────────────────────────────\n");
         printf("🍎 NullSec macOS Low-Level Tools\n");
-        printf("🔑 Premium: discord.gg/killers\n");
+        printf("🔑 Premium: x.com/AnonAntics\n");
         printf("🐦 GitHub: bad-antics\n");
         printf("─────────────────────────────────────────\n\n");
     }

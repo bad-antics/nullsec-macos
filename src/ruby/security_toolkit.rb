@@ -2,7 +2,7 @@
 # ═══════════════════════════════════════════════════════════════════
 #  NULLSEC MACOS RUBY SECURITY TOOLKIT
 #  Ruby-based macOS security analysis
-#  @author bad-antics | discord.gg/killers
+#  @author bad-antics | x.com/AnonAntics
 # ═══════════════════════════════════════════════════════════════════
 
 require 'json'
@@ -15,7 +15,7 @@ require 'time'
 
 VERSION = '2.0.0'
 AUTHOR = 'bad-antics'
-DISCORD = 'discord.gg/killers'
+DISCORD = 'x.com/AnonAntics'
 
 BANNER = <<~BANNER
   ╭──────────────────────────────────────────╮

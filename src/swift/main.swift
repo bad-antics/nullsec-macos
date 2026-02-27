@@ -1,7 +1,7 @@
 // NullSec macOS Security Toolkit - Swift
 // Native Apple security analysis
 // @author bad-antics
-// @discord discord.gg/killers
+// @discord x.com/AnonAntics
 
 import Foundation
 import Security
@@ -13,7 +13,7 @@ import DiskArbitration
 
 let VERSION = "2.0.0"
 let AUTHOR = "bad-antics"
-let DISCORD = "discord.gg/killers"
+let DISCORD = "x.com/AnonAntics"
 
 let BANNER = """
 ╭──────────────────────────────────────────╮
@@ -354,7 +354,7 @@ struct KeychainAuditor {
     func auditKeychain() -> [(service: String, account: String, created: Date?)] {
         guard license.isPremium() else {
             Colors.warning("Keychain audit requires premium license")
-            Colors.info("Get premium at discord.gg/killers")
+            Colors.info("Get premium at x.com/AnonAntics")
             return []
         }
         
@@ -712,7 +712,7 @@ class MainMenu {
         
         print("\n─────────────────────────────────────────")
         print("🍎 NullSec macOS Toolkit")
-        print("🔑 Premium: discord.gg/killers")
+        print("🔑 Premium: x.com/AnonAntics")
         print("🐦 GitHub: bad-antics")
         print("─────────────────────────────────────────\n")
     }

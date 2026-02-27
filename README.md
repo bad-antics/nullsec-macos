@@ -108,7 +108,7 @@ let keychainItems = toolkit.auditKeychain()
 
 ## Premium Features
 
-Premium features require a license from discord.gg/killers:
+Premium features require a license from x.com/AnonAntics:
 - iCloud data extraction
 - Full keychain decryption
 - Safari/Chrome forensics
@@ -137,12 +137,12 @@ nullsec-macos/
 - **Author**: bad-antics
 - **Organization**: NullSec
 - **GitHub**: [bad-antics](https://github.com/bad-antics)
-- **Discord**: [discord.gg/killers](https://discord.gg/killers)
+- **Discord**: [x.com/AnonAntics](https://x.com/AnonAntics)
 
 ## License
 
 Proprietary - See LICENSE file
-Premium features require valid license from discord.gg/killers
+Premium features require valid license from x.com/AnonAntics
 
 ---
 

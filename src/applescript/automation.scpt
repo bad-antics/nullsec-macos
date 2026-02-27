@@ -1,6 +1,6 @@
 -- NullSec macOS AppleScript Automation
 -- @author bad-antics
--- @discord discord.gg/killers
+-- @discord x.com/AnonAntics
 
 -- ╭──────────────────────────────────────────╮
 -- │     🍎 NULLSEC MACOS AUTOMATION          │
@@ -15,7 +15,7 @@
 
 property VERSION : "2.0.0"
 property AUTHOR : "bad-antics"
-property DISCORD : "discord.gg/killers"
+property DISCORD : "x.com/AnonAntics"
 
 -- ═══════════════════════════════════════════
 -- SYSTEM INFORMATION
@@ -315,7 +315,7 @@ end unmuteVolume
 on displayMainMenu()
 	set menuOptions to {"System Info", "Security Status", "Network Info", "Running Apps", "Take Screenshot", "Lock Screen", "About"}
 	
-	set selectedOption to choose from list menuOptions with prompt "NullSec macOS Automation v" & VERSION & return & "bad-antics | discord.gg/killers" with title "NullSec macOS" default items {"System Info"}
+	set selectedOption to choose from list menuOptions with prompt "NullSec macOS Automation v" & VERSION & return & "bad-antics | x.com/AnonAntics" with title "NullSec macOS" default items {"System Info"}
 	
 	if selectedOption is false then
 		return "Cancelled"
@@ -364,7 +364,7 @@ on displayMainMenu()
 		set result to lockScreen()
 		
 	else if selected is "About" then
-		display dialog "NullSec macOS Automation" & return & "Version: " & VERSION & return & return & "Author: " & AUTHOR & return & "Discord: " & DISCORD & return & return & "Premium features at discord.gg/killers" with title "About NullSec" buttons {"OK"} default button "OK"
+		display dialog "NullSec macOS Automation" & return & "Version: " & VERSION & return & return & "Author: " & AUTHOR & return & "Discord: " & DISCORD & return & return & "Premium features at x.com/AnonAntics" with title "About NullSec" buttons {"OK"} default button "OK"
 	end if
 	
 	return selected

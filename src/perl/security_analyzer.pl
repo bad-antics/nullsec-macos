@@ -1,7 +1,7 @@
 # ═══════════════════════════════════════════════════════════════════
 #  NULLSEC MACOS PERL SECURITY ANALYZER
 #  System security analysis and auditing for macOS
-#  @author bad-antics | discord.gg/killers
+#  @author bad-antics | x.com/AnonAntics
 # ═══════════════════════════════════════════════════════════════════
 
 #!/usr/bin/env perl
@@ -17,7 +17,7 @@ use Term::ANSIColor;
 
 our $VERSION = "2.0.0";
 our $AUTHOR  = "bad-antics";
-our $DISCORD = "discord.gg/killers";
+our $DISCORD = "x.com/AnonAntics";
 
 my $BANNER = <<'BANNER';
 
