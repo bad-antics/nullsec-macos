@@ -1,7 +1,7 @@
 // NullSec macOS Security Toolkit - Swift
 // Native Apple security analysis
 // @author bad-antics
-// @discord x.com/AnonAntics
+// @twitter x.com/AnonAntics
 
 import Foundation
 import Security

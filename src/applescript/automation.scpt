@@ -1,6 +1,6 @@
 -- NullSec macOS AppleScript Automation
 -- @author bad-antics
--- @discord x.com/AnonAntics
+-- @twitter x.com/AnonAntics
 
 -- ╭──────────────────────────────────────────╮
 -- │     🍎 NULLSEC MACOS AUTOMATION          │

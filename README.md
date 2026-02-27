@@ -137,7 +137,7 @@ nullsec-macos/
 - **Author**: bad-antics
 - **Organization**: NullSec
 - **GitHub**: [bad-antics](https://github.com/bad-antics)
-- **Discord**: [x.com/AnonAntics](https://x.com/AnonAntics)
+- **Twitter**: [x.com/AnonAntics](https://x.com/AnonAntics)
 
 ## License
 

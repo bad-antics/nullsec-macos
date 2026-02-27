@@ -1,7 +1,7 @@
 // NullSec macOS - Objective-C Low-Level Tools
 // Direct access to macOS internals
 // @author bad-antics
-// @discord x.com/AnonAntics
+// @twitter x.com/AnonAntics
 
 #import <Foundation/Foundation.h>
 #import <Security/Security.h>
